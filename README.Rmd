@@ -2,22 +2,15 @@
 title: "GitHub Dashboard"
 output: github_document
 # provide user name to include all public, non-fork repos from the owner
-all_by_owner: gadenbuie
+all_by_owner: sbalci
 # the repository where this repo exists
-status_repo: gadenbuie/status
+status_repo: sbalci/status
 # list of repositories by owner name and repo (appear before owner's repos)
 repos:
-  gadenbuie:
-  - xaringanthemer
-  - xaringanExtra
-  - starwarsdb
-  - metathis
-  - shrtcts
-  - js4shiny
-  rstudio-education:
-  - gradethis
-  rstudio:
-  - learnr
+  sbalci:
+    - ClinicoPath
+  patolojiAI:
+    - patolojiAI.github.io
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
@@ -34,7 +27,10 @@ library(glue)
 source("gh-repo-info.R")
 
 repo_list <- rmarkdown::metadata$repos
+
 owner <- rmarkdown::metadata$all_by_owner
+
+
 if (!is.character(owner) && length(owner) == 1) {
   warning("`all_by_owner` should be a single GitHub user account")
   owner <- NULL
