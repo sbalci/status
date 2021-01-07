@@ -10,35 +10,35 @@ repos:
   sbalci:
     - pubmedarticles
     - sbalci.github.io
-    - Pathology-Articles-from-Turkey
-    - ClinicoPathJamoviModule
-    - meddecide
-    - jsurvival
-    - jjstatsplot
-    - ClinicoPathDescriptives
-    - ClinicoPathLinuxDescriptives
-    - jamoviTemplate
-    - secure-electron-template2
-    - okm
-    - patolojirapor
-    - serdarbalci
-    - ParaPathology
-    - lens2r
-    - histopathJulia
-    - histopathRaddins
-    - histopathR
-    - securElectron
-    - histopathRshiny
-    - bibliometrics-template
-    - pubmed
-    - Kotu-Veri-Kilavuzu
-    - clinicopathological
-    - MyRCodesForDataAnalysis
-    - sbalci
-    - histopathology-template
-    - my_cran
-    - headstart-preprocess
-    - DeutschLernen
+  #    - Pathology-Articles-from-Turkey
+  #    - ClinicoPathJamoviModule
+  #    - meddecide
+  #    - jsurvival
+  #    - jjstatsplot
+  #    - ClinicoPathDescriptives
+  #    - ClinicoPathLinuxDescriptives
+  #    - jamoviTemplate
+  #    - secure-electron-template2
+  #    - okm
+  #    - patolojirapor
+  #    - serdarbalci
+  #    - ParaPathology
+  #    - lens2r
+  #    - histopathJulia
+  #    - histopathRaddins
+  #    - histopathR
+  #    - securElectron
+  #    - histopathRshiny
+  #    - bibliometrics-template
+  #    - pubmed
+  #    - Kotu-Veri-Kilavuzu
+  #    - clinicopathological
+  #    - MyRCodesForDataAnalysis
+  #    - sbalci
+  #    - histopathology-template
+  #    - my_cran
+  #    - headstart-preprocess
+  #    - DeutschLernen
   patolojiAI:
     - patolojiAI.github.io
 ---
