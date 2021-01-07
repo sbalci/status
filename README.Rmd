@@ -11,8 +11,8 @@ repos:
     - pubmedarticles
     - sbalci.github.io
     - Pathology-Articles-from-Turkey
-  #    - ClinicoPathJamoviModule
-  #    - meddecide
+    - ClinicoPathJamoviModule
+    - meddecide
   #    - jsurvival
   #    - jjstatsplot
   #    - ClinicoPathDescriptives
