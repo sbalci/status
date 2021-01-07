@@ -10,7 +10,7 @@ repos:
   sbalci:
     - pubmedarticles
     - sbalci.github.io
-  #    - Pathology-Articles-from-Turkey
+    - Pathology-Articles-from-Turkey
   #    - ClinicoPathJamoviModule
   #    - meddecide
   #    - jsurvival
