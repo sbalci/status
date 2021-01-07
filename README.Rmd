@@ -13,8 +13,8 @@ repos:
     - Pathology-Articles-from-Turkey
     - ClinicoPathJamoviModule
     - meddecide
-  #    - jsurvival
-  #    - jjstatsplot
+    - jsurvival
+    - jjstatsplot
   #    - ClinicoPathDescriptives
   #    - ClinicoPathLinuxDescriptives
   #    - jamoviTemplate
