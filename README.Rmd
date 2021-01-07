@@ -9,6 +9,7 @@ status_repo: sbalci/status
 repos:
   sbalci:
     - ClinicoPath
+    - sbalci.github.io
   patolojiAI:
     - patolojiAI.github.io
 ---
