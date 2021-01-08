@@ -27,8 +27,8 @@ repos:
     - histopathRshiny
     - bibliometrics-template
     - pubmed
-  #    - Kotu-Veri-Kilavuzu
-  #    - clinicopathological
+    - Kotu-Veri-Kilavuzu
+    - clinicopathological
   #    - MyRCodesForDataAnalysis
   #    - sbalci
   #    - histopathology-template
