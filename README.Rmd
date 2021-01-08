@@ -33,7 +33,7 @@ repos:
     - sbalci
     - histopathology-template
     - my_cran
-  #    - headstart-preprocess
+    - headstart-preprocess
   #    - DeutschLernen
   #    - secure-electron-template2
   #    - serdarbalci
