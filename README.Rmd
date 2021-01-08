@@ -20,9 +20,7 @@ repos:
     - jamoviTemplate
     - okm
     - patolojirapor
-    - serdarbalci
-    - ParaPathology
-  #    - lens2r
+    - lens2r
   #    - histopathJulia
   #    - histopathRaddins
   #    - histopathR
@@ -39,6 +37,8 @@ repos:
   #    - headstart-preprocess
   #    - DeutschLernen
   #    - secure-electron-template2
+  #    - serdarbalci
+  #    - ParaPathology
   patolojiAI:
     - patolojiAI.github.io
 ---
