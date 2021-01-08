@@ -20,7 +20,7 @@ repos:
     - jamoviTemplate
     #    - secure-electron-template2
     - okm
-  #    - patolojirapor
+    - patolojirapor
   #    - serdarbalci
   #    - ParaPathology
   #    - lens2r
