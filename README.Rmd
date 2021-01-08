@@ -31,7 +31,7 @@ repos:
     - clinicopathological
     - MyRCodesForDataAnalysis
     - sbalci
-  #    - histopathology-template
+    - histopathology-template
   #    - my_cran
   #    - headstart-preprocess
   #    - DeutschLernen
