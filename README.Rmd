@@ -24,9 +24,8 @@ repos:
     - histopathJulia
     - histopathRaddins
     - histopathR
-    - securElectron
-  #    - histopathRshiny
-  #    - bibliometrics-template
+    - histopathRshiny
+    - bibliometrics-template
   #    - pubmed
   #    - Kotu-Veri-Kilavuzu
   #    - clinicopathological
@@ -39,6 +38,7 @@ repos:
   #    - secure-electron-template2
   #    - serdarbalci
   #    - ParaPathology
+  #    - securElectron
   patolojiAI:
     - patolojiAI.github.io
 ---
