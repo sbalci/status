@@ -18,7 +18,7 @@ repos:
     - ClinicoPathDescriptives
     - ClinicoPathLinuxDescriptives
     - jamoviTemplate
-    - secure-electron-template2
+  #    - secure-electron-template2
   #    - okm
   #    - patolojirapor
   #    - serdarbalci
