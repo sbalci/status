@@ -35,10 +35,10 @@ repos:
     - my_cran
     - headstart-preprocess
     - DeutschLernen
-    - secure-electron-template2
-  #    - serdarbalci
+    - serdarbalci
   #    - ParaPathology
   #    - securElectron
+  #    - secure-electron-template2
   patolojiAI:
     - patolojiAI.github.io
 ---
