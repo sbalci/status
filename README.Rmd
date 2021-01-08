@@ -34,7 +34,7 @@ repos:
     - histopathology-template
     - my_cran
     - headstart-preprocess
-  #    - DeutschLernen
+    - DeutschLernen
   #    - secure-electron-template2
   #    - serdarbalci
   #    - ParaPathology
