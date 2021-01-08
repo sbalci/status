@@ -24,7 +24,7 @@ repos:
     - histopathJulia
     - histopathRaddins
     - histopathR
-  #    - securElectron
+    - securElectron
   #    - histopathRshiny
   #    - bibliometrics-template
   #    - pubmed
