@@ -32,7 +32,7 @@ repos:
     - MyRCodesForDataAnalysis
     - sbalci
     - histopathology-template
-  #    - my_cran
+    - my_cran
   #    - headstart-preprocess
   #    - DeutschLernen
   #    - secure-electron-template2
