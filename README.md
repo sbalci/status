@@ -2,7 +2,24 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/sbalci/status/workflows/Render%20Status/badge.svg)
-2021-01-08 20:19:18 UTC
+2021-01-08 20:42:19 UTC
+
+``` yaml
+# add WIP control
+jobs:
+  render:
+    name: Prepare System
+    runs-on: macOS-latest
+    if: "!contains(github.event.head_commit.message, 'WIP')"
+```
+
+``` r
+usethis::use_github_action("lint")
+usethis::use_github_action("render-rmarkdown")
+usethis::use_github_action("pkgdown")
+usethis::use_github_action("bookdown")
+usethis::use_github_action("blogdown")
+```
 
 | Repo                                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                            | Commit                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
