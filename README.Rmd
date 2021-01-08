@@ -17,8 +17,8 @@ repos:
     - jjstatsplot
     - ClinicoPathDescriptives
     - ClinicoPathLinuxDescriptives
-  #    - jamoviTemplate
-  #    - secure-electron-template2
+    - jamoviTemplate
+    - secure-electron-template2
   #    - okm
   #    - patolojirapor
   #    - serdarbalci
