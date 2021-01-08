@@ -35,7 +35,7 @@ repos:
     - my_cran
     - headstart-preprocess
     - DeutschLernen
-  #    - secure-electron-template2
+    - secure-electron-template2
   #    - serdarbalci
   #    - ParaPathology
   #    - securElectron
