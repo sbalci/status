@@ -29,7 +29,7 @@ repos:
     - pubmed
     - Kotu-Veri-Kilavuzu
     - clinicopathological
-  #    - MyRCodesForDataAnalysis
+    - MyRCodesForDataAnalysis
   #    - sbalci
   #    - histopathology-template
   #    - my_cran
