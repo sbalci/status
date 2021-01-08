@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/sbalci/status/workflows/Render%20Status/badge.svg)
-2021-01-08 17:00:03 UTC
+2021-01-08 17:10:52 UTC
 
 | Repo                                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                            | Commit                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------ | ----: | ----------: | -----: | ----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,3 +61,4 @@ GitHub Dashboard
 | [sbalci/sbalci](https://github.com/sbalci/sbalci)                             |     0 |           1 |      0 |     0 |
 | [sbalci/my\_cran](https://github.com/sbalci/my_cran)                          |     0 |           1 |      0 |     0 |
 | [sbalci/headstart-preprocess](https://github.com/sbalci/headstart-preprocess) |     0 |           1 |      0 |     0 |
+| [sbalci/DeutschLernen](https://github.com/sbalci/DeutschLernen)               |     4 |           1 |      0 |     1 |
