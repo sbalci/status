@@ -21,7 +21,7 @@ repos:
     - okm
     - patolojirapor
     - lens2r
-  #    - histopathJulia
+    - histopathJulia
   #    - histopathRaddins
   #    - histopathR
   #    - securElectron
