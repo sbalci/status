@@ -30,7 +30,7 @@ repos:
     - Kotu-Veri-Kilavuzu
     - clinicopathological
     - MyRCodesForDataAnalysis
-  #    - sbalci
+    - sbalci
   #    - histopathology-template
   #    - my_cran
   #    - headstart-preprocess
