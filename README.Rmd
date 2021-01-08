@@ -22,7 +22,7 @@ repos:
     - patolojirapor
     - lens2r
     - histopathJulia
-  #    - histopathRaddins
+    - histopathRaddins
   #    - histopathR
   #    - securElectron
   #    - histopathRshiny
