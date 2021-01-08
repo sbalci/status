@@ -15,8 +15,8 @@ repos:
     - meddecide
     - jsurvival
     - jjstatsplot
-  #    - ClinicoPathDescriptives
-  #    - ClinicoPathLinuxDescriptives
+    - ClinicoPathDescriptives
+    - ClinicoPathLinuxDescriptives
   #    - jamoviTemplate
   #    - secure-electron-template2
   #    - okm
