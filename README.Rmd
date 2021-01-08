@@ -21,7 +21,7 @@ repos:
     - okm
     - patolojirapor
     - serdarbalci
-  #    - ParaPathology
+    - ParaPathology
   #    - lens2r
   #    - histopathJulia
   #    - histopathRaddins
