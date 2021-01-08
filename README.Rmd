@@ -23,7 +23,7 @@ repos:
     - lens2r
     - histopathJulia
     - histopathRaddins
-  #    - histopathR
+    - histopathR
   #    - securElectron
   #    - histopathRshiny
   #    - bibliometrics-template
