@@ -18,10 +18,9 @@ repos:
     - ClinicoPathDescriptives
     - ClinicoPathLinuxDescriptives
     - jamoviTemplate
-    #    - secure-electron-template2
     - okm
     - patolojirapor
-  #    - serdarbalci
+    - serdarbalci
   #    - ParaPathology
   #    - lens2r
   #    - histopathJulia
@@ -39,6 +38,7 @@ repos:
   #    - my_cran
   #    - headstart-preprocess
   #    - DeutschLernen
+  #    - secure-electron-template2
   patolojiAI:
     - patolojiAI.github.io
 ---
