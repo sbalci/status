@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/sbalci/status/workflows/Render%20Status/badge.svg)
-2021-01-12 12:12:01 UTC
+2021-01-12 12:50:47 UTC
 
 ``` yaml
 # add WIP control
@@ -71,6 +71,7 @@ usethis::use_github_action("blogdown")
 | [sbalci/histopathology-template](https://github.com/sbalci/histopathology-template)               |     2 |           2 |      0 |     0 | [![](https://github.com/sbalci/histopathology-template/workflows/Render%20README/badge.svg)](https://github.com/sbalci/histopathology-template/actions/runs/36669923)             | <a href="https://github.com/sbalci/histopathology-template/commit/efae73ca8047d60052ed84aab89525955fd3a225" title="updated on 2020-02-09 23:00:43">efae73</a>                             |
 | [sbalci/ParaPathology](https://github.com/sbalci/ParaPathology)                                   |     1 |           2 |      0 |     0 | [![](https://github.com/sbalci/ParaPathology/workflows/Mark%20stale%20issues%20and%20pull%20requests/badge.svg)](https://github.com/sbalci/ParaPathology/actions/runs/479078037)  | <a href="https://github.com/sbalci/ParaPathology/commit/da1ff1a82f5a1d9dcf5735f3cd056a0f9b5ac859" title="Create jekyll.yml">da1ff1</a>                                                    |
 | [sbalci/ParaPathology](https://github.com/sbalci/ParaPathology)                                   |     1 |           2 |      0 |     0 | [![](https://github.com/sbalci/ParaPathology/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/sbalci/ParaPathology/actions/runs/467194597)                             | <a href="https://github.com/sbalci/ParaPathology/commit/da1ff1a82f5a1d9dcf5735f3cd056a0f9b5ac859" title="Create jekyll.yml">da1ff1</a>                                                    |
+| [sbalci/serdarbalci](https://github.com/sbalci/serdarbalci)                                       |     1 |           1 |      0 |     0 | [![](https://github.com/sbalci/serdarbalci/workflows/bookdown/badge.svg)](https://github.com/sbalci/serdarbalci/actions/runs/480167438)                                           | <a href="https://github.com/sbalci/serdarbalci/commit/4dc50136a975cf09313930445c67664af16d9ea7" title="netlify github action">4dc501</a>                                                  |
 | [patolojiAI/patolojiAI.github.io](https://github.com/patolojiAI/patolojiAI.github.io)             |     0 |           1 |      0 |     0 | [![](https://github.com/patolojiAI/patolojiAI.github.io/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/patolojiAI/patolojiAI.github.io/actions/runs/467184815)       | <a href="https://github.com/patolojiAI/patolojiAI.github.io/commit/690ba1c871b1229e8b95c0f49ecb8b4700678d2b" title="Create jekyll.yml">690ba1</a>                                         |
 
 ## Repos without Github Actions
@@ -81,4 +82,3 @@ usethis::use_github_action("blogdown")
 | [sbalci/my\_cran](https://github.com/sbalci/my_cran)                          |     0 |           1 |      0 |     0 |
 | [sbalci/headstart-preprocess](https://github.com/sbalci/headstart-preprocess) |     0 |           2 |      0 |     0 |
 | [sbalci/DeutschLernen](https://github.com/sbalci/DeutschLernen)               |     4 |           1 |      0 |     1 |
-| [sbalci/serdarbalci](https://github.com/sbalci/serdarbalci)                   |     1 |           1 |      0 |     0 |
