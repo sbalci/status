@@ -37,7 +37,7 @@ repos:
     - DeutschLernen
     - ParaPathology
     - serdarbalci
-  #  - securElectron
+    - securElectron 
   patolojiAI:
     - patolojiAI.github.io
 ---
