@@ -36,9 +36,8 @@ repos:
     - headstart-preprocess
     - DeutschLernen
     - ParaPathology
-  #  - serdarbalci
+    - serdarbalci
   #  - securElectron
-  #  - secure-electron-template2
   patolojiAI:
     - patolojiAI.github.io
 ---
