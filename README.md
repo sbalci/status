@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/sbalci/status/workflows/Render%20Status/badge.svg)
-2021-01-13 12:38:11 UTC
+2021-01-13 19:47:37 UTC
 
 ``` yaml
 # add WIP control
@@ -73,6 +73,9 @@ usethis::use_github_action("blogdown")
 | [sbalci/ParaPathology](https://github.com/sbalci/ParaPathology)                                   |     1 |           2 |      0 |     0 | [![](https://github.com/sbalci/ParaPathology/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/sbalci/ParaPathology/actions/runs/467194597)                             | <a href="https://github.com/sbalci/ParaPathology/commit/da1ff1a82f5a1d9dcf5735f3cd056a0f9b5ac859" title="Create jekyll.yml">da1ff1</a>                                                    |
 | [sbalci/serdarbalci](https://github.com/sbalci/serdarbalci)                                       |     1 |           1 |      0 |     0 | [![](https://github.com/sbalci/serdarbalci/workflows/bookdown/badge.svg)](https://github.com/sbalci/serdarbalci/actions/runs/480167438)                                           | <a href="https://github.com/sbalci/serdarbalci/commit/4dc50136a975cf09313930445c67664af16d9ea7" title="netlify github action">4dc501</a>                                                  |
 | [patolojiAI/patolojiAI.github.io](https://github.com/patolojiAI/patolojiAI.github.io)             |     0 |           1 |      0 |     0 | [![](https://github.com/patolojiAI/patolojiAI.github.io/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/patolojiAI/patolojiAI.github.io/actions/runs/467184815)       | <a href="https://github.com/patolojiAI/patolojiAI.github.io/commit/690ba1c871b1229e8b95c0f49ecb8b4700678d2b" title="Create jekyll.yml">690ba1</a>                                         |
+| [patolojiAI/securElectron](https://github.com/patolojiAI/securElectron)                           |     0 |           1 |     10 |     0 | [![](https://github.com/patolojiAI/securElectron/workflows/CodeQL/badge.svg)](https://github.com/patolojiAI/securElectron/actions/runs/480793282)                                 | <a href="https://github.com/patolojiAI/securElectron/commit/75b30a20a7300a3159fec80b174dddd116bfc8ee" title="Update codeql-analysis.yml">75b30a</a>                                       |
+| [patolojiAI/securElectron](https://github.com/patolojiAI/securElectron)                           |     0 |           1 |     10 |     0 | [![](https://github.com/patolojiAI/securElectron/workflows/Node.js%20CI/badge.svg)](https://github.com/patolojiAI/securElectron/actions/runs/480858145)                           | <a href="https://github.com/patolojiAI/securElectron/commit/441a2ece8a0ef7b8665d3c4199b4b1c5863bafa3" title="change repo name globally">441a2e</a>                                        |
+| [patolojiAI/securElectron](https://github.com/patolojiAI/securElectron)                           |     0 |           1 |     10 |     0 | [![](https://github.com/patolojiAI/securElectron/workflows/Node.js%20Package/badge.svg)](https://github.com/patolojiAI/securElectron/actions/runs/480893744)                      | <a href="https://github.com/patolojiAI/securElectron/commit/dc1b87828a8121422f7b596cd5dbf366575c2502" title="delete deno yml">dc1b87</a>                                                  |
 
 ## Repos without Github Actions
 
