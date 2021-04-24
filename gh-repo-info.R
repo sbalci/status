@@ -6,6 +6,7 @@ library(dplyr)
 library(tidyr)
 library(glue)
 library(readr)
+library(magrittr)
 
 
 # gh functions ----
