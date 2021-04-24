@@ -4,7 +4,6 @@ output: github_document
 # provide user name to include all public, non-fork repos from the owner
 all_by_owner: 
     - patolojiAI
-    - drozlembalci
     - sbalci
 # the repository where this repo exists
 status_repo: sbalci/status
@@ -43,8 +42,6 @@ repos:
   patolojiAI:
     - patolojiAI.github.io
     - securElectron
-  drozlembalci:
-    - drozlembalci.github.io
 ---
 
 
