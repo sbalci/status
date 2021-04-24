@@ -1,5 +1,5 @@
 ---
-title: "GitHub Dashboard"
+title: "Serdar Balcı GitHub Dashboard"
 output: github_document
 # provide user name to include all public, non-fork repos from the owner
 all_by_owner: patolojiAI
@@ -40,7 +40,10 @@ repos:
   patolojiAI:
     - patolojiAI.github.io
     - securElectron
+  drozlembalci:
+    - drozlembalci.github.io
 ---
+
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg) `r strftime(Sys.time(), "%F %T %Z")`
 
