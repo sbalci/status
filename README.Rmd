@@ -40,9 +40,10 @@ repos:
     - DeutschLernen
     - ParaPathology
     - serdarbalci
-  drozlembalci:
-    - drozlembalci
-    - drozlembalci.github.io
+    - drozlembalcicv
+  # drozlembalci:
+  #   - drozlembalci
+  #   - drozlembalci.github.io
   patolojiAI:
     - patolojiAI.github.io
     - securElectron
