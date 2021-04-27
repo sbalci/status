@@ -2,7 +2,7 @@ Serdar Balcı GitHub Dashboard
 ================
 
 ![](https://github.com/sbalci/status/workflows/Render%20Status/badge.svg)
-2021-04-26 12:06:59 UTC
+2021-04-27 08:49:34 UTC
 
 ``` yaml
 # add WIP control
@@ -95,10 +95,12 @@ usethis::use_github_action("blogdown")
 
 ## Repos without Github Actions
 
-| Repo                                                                              | Stars | Subscribers | Issues | Forks |
-| :-------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
-| [sbalci/sbalci](https://github.com/sbalci/sbalci)                                 |     0 |           1 |      0 |     0 |
-| [sbalci/my\_cran](https://github.com/sbalci/my_cran)                              |     0 |           1 |      0 |     0 |
-| [sbalci/headstart-preprocess](https://github.com/sbalci/headstart-preprocess)     |     0 |           2 |      0 |     0 |
-| [sbalci/DeutschLernen](https://github.com/sbalci/DeutschLernen)                   |     4 |           1 |      0 |     1 |
-| [drozlembalcicv/drozlembalcicv](https://github.com/drozlembalcicv/drozlembalcicv) |     0 |           1 |      0 |     0 |
+| Repo                                                                                          | Stars | Subscribers | Issues | Forks |
+| :-------------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: |
+| [sbalci/sbalci](https://github.com/sbalci/sbalci)                                             |     0 |           1 |      0 |     0 |
+| [sbalci/my\_cran](https://github.com/sbalci/my_cran)                                          |     0 |           1 |      0 |     0 |
+| [sbalci/headstart-preprocess](https://github.com/sbalci/headstart-preprocess)                 |     0 |           2 |      0 |     0 |
+| [sbalci/DeutschLernen](https://github.com/sbalci/DeutschLernen)                               |     4 |           1 |      0 |     1 |
+| [drozlembalcicv/drozlembalcicv](https://github.com/drozlembalcicv/drozlembalcicv)             |     0 |           1 |      0 |     0 |
+| [drozlembalci/drozlembalci](https://github.com/drozlembalci/drozlembalci)                     |     1 |           1 |      0 |     0 |
+| [drozlembalci/drozlembalci.github.io](https://github.com/drozlembalci/drozlembalci.github.io) |     1 |           1 |      0 |     0 |
