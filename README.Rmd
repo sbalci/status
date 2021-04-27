@@ -5,7 +5,6 @@ output: github_document
 all_by_owner: 
     - patolojiAI
     - sbalci
-    - drozlembalci
 # the repository where this repo exists
 status_repo: sbalci/status
 # list of repositories by owner name and repo (appear before owner's repos)
