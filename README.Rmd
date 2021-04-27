@@ -5,7 +5,7 @@ output: github_document
 all_by_owner: 
     - patolojiAI
     - sbalci
-    # - drozlembalci
+    - drozlembalci
 # the repository where this repo exists
 status_repo: sbalci/status
 # list of repositories by owner name and repo (appear before owner's repos)
@@ -41,9 +41,9 @@ repos:
     - ParaPathology
     - serdarbalci
     - drozlembalcicv
-  # drozlembalci:
-  #   - drozlembalci
-  #   - drozlembalci.github.io
+  drozlembalci:
+    - drozlembalci
+    - drozlembalci.github.io
   patolojiAI:
     - patolojiAI.github.io
     - securElectron
