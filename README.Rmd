@@ -45,7 +45,6 @@ repos:
     - drozlembalci.github.io
   patolojiAI:
     - patolojiAI.github.io
-    - securElectron
 ---
 
 
