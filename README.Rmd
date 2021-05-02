@@ -4,7 +4,7 @@ output: github_document
 # provide user name to include all public, non-fork repos from the owner
 all_by_owner: 
     - sbalci
-    - patolojiAI
+    # - patolojiAI
 # the repository where this repo exists
 status_repo: sbalci/status
 # list of repositories by owner name and repo (appear before owner's repos)
