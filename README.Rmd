@@ -12,11 +12,23 @@ repos:
   sbalci:
   - sbalci.github.io
   - ClinicoPathJamoviModule
+  - meddecide
+  - jsurvival
+  - jjstatsplot
+  - ClinicoPathDescriptives
+  - ClinicoPathLinuxDescriptives
+  - clinicopathological
+  - MyRCodesForDataAnalysis
+  - sbalci
+  - histopathology-template
+  - ParaPathology
+  - serdarbalci
+  - drozlembalcicv
   patolojiAI:
   - patolojiAI.github.io
   drozlembalci:
-  - drozlembalci
   - drozlembalci.github.io
+  - drozlembalci 
 ---
 
 ![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
